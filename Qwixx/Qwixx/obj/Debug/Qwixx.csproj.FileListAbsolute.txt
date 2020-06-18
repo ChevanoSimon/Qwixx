@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Qwixx\Qwixx\bin\Debug\Qwixx.exe.config
+C:\Users\User\source\repos\Qwixx\Qwixx\bin\Debug\Qwixx.exe
+C:\Users\User\source\repos\Qwixx\Qwixx\bin\Debug\Qwixx.pdb
+C:\Users\User\source\repos\Qwixx\Qwixx\obj\Debug\Qwixx.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Qwixx\Qwixx\obj\Debug\Qwixx.Form1.resources
+C:\Users\User\source\repos\Qwixx\Qwixx\obj\Debug\Qwixx.Properties.Resources.resources
+C:\Users\User\source\repos\Qwixx\Qwixx\obj\Debug\Qwixx.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Qwixx\Qwixx\obj\Debug\Qwixx.exe
+C:\Users\User\source\repos\Qwixx\Qwixx\obj\Debug\Qwixx.pdb
